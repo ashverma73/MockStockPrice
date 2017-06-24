@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockStockPrice.DataClient",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockStockPrice.Hub", "MockStockPrice.Hub\MockStockPrice.Hub.csproj", "{F8F2ADD2-4EC7-4612-9DE2-E07DB2ABE07B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockStockPriceTests", "MockStockPriceTests\MockStockPriceTests.csproj", "{BDFF8741-AFFA-4752-A0E4-82A1325A3F75}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{F8F2ADD2-4EC7-4612-9DE2-E07DB2ABE07B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8F2ADD2-4EC7-4612-9DE2-E07DB2ABE07B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8F2ADD2-4EC7-4612-9DE2-E07DB2ABE07B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDFF8741-AFFA-4752-A0E4-82A1325A3F75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDFF8741-AFFA-4752-A0E4-82A1325A3F75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDFF8741-AFFA-4752-A0E4-82A1325A3F75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDFF8741-AFFA-4752-A0E4-82A1325A3F75}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
