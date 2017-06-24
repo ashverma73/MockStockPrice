@@ -1,0 +1,252 @@
+[
+  {
+    "Name": "NVR Inc",
+    "Ticker": "NVR",
+    "PxLast": 2426.6
+  },
+  {
+    "Name": "Alliant Techsystems Inc",
+    "Ticker": "ATK",
+    "PxLast": 2072
+  },
+  {
+    "Name": "Priceline.com Inc",
+    "Ticker": "PCLN",
+    "PxLast": 1874.28
+  },
+  {
+    "Name": "Hercules Offshore Inc",
+    "Ticker": "HERO",
+    "PxLast": 1200
+  },
+  {
+    "Name": "Zimmer Holdings Inc",
+    "Ticker": "ZMH",
+    "PxLast": 1200
+  },
+  {
+    "Name": "Amazon.com Inc",
+    "Ticker": "AMZN",
+    "PxLast": 1003.74
+  },
+  {
+    "Name": "Google Inc",
+    "Ticker": "GOOG",
+    "PxLast": 965.59
+  },
+  {
+    "Name": "Markel Corp",
+    "Ticker": "MKL",
+    "PxLast": 953.39
+  },
+  {
+    "Name": "Intuitive Surgical Inc",
+    "Ticker": "ISRG",
+    "PxLast": 948.94
+  },
+  {
+    "Name": "White Mountains Insurance Group Ltd",
+    "Ticker": "WTM",
+    "PxLast": 862.44
+  },
+  {
+    "Name": "Mettler Toledo International Inc",
+    "Ticker": "MTD",
+    "PxLast": 599.64
+  },
+  {
+    "Name": "Graham Holdings Company",
+    "Ticker": "GHC",
+    "PxLast": 598.5
+  },
+  {
+    "Name": "Alleghany Corp",
+    "Ticker": "Y",
+    "PxLast": 584.39
+  },
+  {
+    "Name": "Atrion Corp",
+    "Ticker": "ATRI",
+    "PxLast": 583
+  },
+  {
+    "Name": "Autozone Inc",
+    "Ticker": "AZO",
+    "PxLast": 574.98
+  },
+  {
+    "Name": "Regeneron Pharmaceuticals Inc",
+    "Ticker": "REGN",
+    "PxLast": 517.33
+  },
+  {
+    "Name": "NewMarket Corp",
+    "Ticker": "NEU",
+    "PxLast": 459.19
+  },
+  {
+    "Name": "Equinix Inc",
+    "Ticker": "EQIX",
+    "PxLast": 434.07
+  },
+  {
+    "Name": "Willis Group Holdings PLC",
+    "Ticker": "WSH",
+    "PxLast": 434
+  },
+  {
+    "Name": "Willis Group Holdings PLC",
+    "Ticker": "WSH",
+    "PxLast": 434
+  },
+  {
+    "Name": "Alexander's Inc",
+    "Ticker": "ALX",
+    "PxLast": 424.32
+  },
+  {
+    "Name": "BlackRock Inc",
+    "Ticker": "BLK",
+    "PxLast": 421.62
+  },
+  {
+    "Name": "Chipotle Mexican Grill Inc",
+    "Ticker": "CMG",
+    "PxLast": 415.28
+  },
+  {
+    "Name": "Biglari Holdings Inc",
+    "Ticker": "BH",
+    "PxLast": 412.42
+  },
+  {
+    "Name": "Molycorp Inc",
+    "Ticker": "MCP",
+    "PxLast": 398
+  },
+  {
+    "Name": "Tesla Motors Inc",
+    "Ticker": "TSLA",
+    "PxLast": 383.45
+  },
+  {
+    "Name": "First Citizens BancShares Inc",
+    "Ticker": "FCNCA",
+    "PxLast": 363.37
+  },
+  {
+    "Name": "Sherwin-Williams Co",
+    "Ticker": "SHW",
+    "PxLast": 357.1
+  },
+  {
+    "Name": "Amerco Inc",
+    "Ticker": "UHAL",
+    "PxLast": 340.72
+  },
+  {
+    "Name": "Charter Communications Inc",
+    "Ticker": "CHTR",
+    "PxLast": 330.8
+  },
+  {
+    "Name": "National Western Life Insurance Co",
+    "Ticker": "NWLI",
+    "PxLast": 320.56
+  },
+  {
+    "Name": "CR Bard Inc",
+    "Ticker": "BCR",
+    "PxLast": 315.98
+  },
+  {
+    "Name": "Panera Bread Co",
+    "Ticker": "PNRA",
+    "PxLast": 314.5
+  },
+  {
+    "Name": "Ulta Salon Cosmetics & Fragrance Inc",
+    "Ticker": "ULTA",
+    "PxLast": 284.71
+  },
+  {
+    "Name": "Lockheed Martin Corp",
+    "Ticker": "LMT",
+    "PxLast": 280.64
+  },
+  {
+    "Name": "Biogen Idec Inc",
+    "Ticker": "BIIB",
+    "PxLast": 280.32
+  },
+  {
+    "Name": "TransDigm Group Inc",
+    "Ticker": "TDG",
+    "PxLast": 268.12
+  },
+  {
+    "Name": "CoStar Group Inc",
+    "Ticker": "CSGP",
+    "PxLast": 266.93
+  },
+  {
+    "Name": "Essex Property Trust Inc",
+    "Ticker": "ESS",
+    "PxLast": 265.79
+  },
+  {
+    "Name": "Alliance Data Systems Corp",
+    "Ticker": "ADS",
+    "PxLast": 261.25
+  },
+  {
+    "Name": "Northrop Grumman Corp",
+    "Ticker": "NOC",
+    "PxLast": 257.4
+  },
+  {
+    "Name": "Everest Re Group Ltd",
+    "Ticker": "RE",
+    "PxLast": 253.98
+  },
+  {
+    "Name": "Credit Acceptance Corp",
+    "Ticker": "CACC",
+    "PxLast": 249.87
+  },
+  {
+    "Name": "Mohawk Industries Inc",
+    "Ticker": "MHK",
+    "PxLast": 246.5
+  },
+  {
+    "Name": "Allergan Inc",
+    "Ticker": "AGN",
+    "PxLast": 246.46
+  },
+  {
+    "Name": "Cooper Cos Inc",
+    "Ticker": "COO",
+    "PxLast": 246.19
+  },
+  {
+    "Name": "Avago Technologies Ltd",
+    "Ticker": "AVGO",
+    "PxLast": 245.26
+  },
+  {
+    "Name": "Coherent Inc",
+    "Ticker": "COHR",
+    "PxLast": 239.02
+  },
+  {
+    "Name": "Humana Inc",
+    "Ticker": "HUM",
+    "PxLast": 238.42
+  },
+  {
+    "Name": "Coca-Cola Bottling Co Consolidated",
+    "Ticker": "COKE",
+    "PxLast": 235.66
+  }
+]
