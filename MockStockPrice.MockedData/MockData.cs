@@ -9,6 +9,9 @@ using Newtonsoft.Json;
 using System.Web;
 namespace MockStockPrice.MockedData
 {
+    /// <summary>
+    /// This class will read Json file and serialize it into the object. 
+    /// </summary>
     public static class MockData
     {
         static List<Stock> _StockData = null;

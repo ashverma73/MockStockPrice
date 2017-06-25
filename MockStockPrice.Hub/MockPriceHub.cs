@@ -2,7 +2,9 @@
 using Microsoft.AspNet.SignalR.Hubs;
 using MockStockPrice.DataModel;
 namespace MockStockPrice.Hub
-{
+{/// <summary>
+/// Hub Class for Client Server SignalR communication
+/// </summary>
     [HubName("stockPrice")]
     public class MockPriceHub : Microsoft.AspNet.SignalR.Hub
     {

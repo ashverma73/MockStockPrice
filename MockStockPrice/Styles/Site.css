@@ -179,6 +179,7 @@ first child of the left and right table columns */
     border-color: #666666; 
     border-collapse: collapse;    
     text-align:center;
+    width: 461px;
 }
 
 .stockth

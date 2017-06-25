@@ -6,6 +6,9 @@ using Microsoft.AspNet.SignalR.Hubs;
 using MockStockPrice.DataModel;
 namespace MockStockPrice.Hub
 {
+    /// <summary>
+/// StockTicker class is a singleton class which will simulate price ticking every 5 seconds
+/// </summary>
     public class StockTicker
     {
         // Singleton instance
