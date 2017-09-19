@@ -12,7 +12,7 @@ namespace MockStockPrice
         {
             container.RegisterType<IData, MockedDataClient>("MockedData",
                                             new TransientLifetimeManager(),
-                                            new InjectionConstructor(50));
+                                            new InjectionConstructor(30));
 
             container.RegisterType<IData, LiveDataClient>("DbData",
                                             new TransientLifetimeManager(),
